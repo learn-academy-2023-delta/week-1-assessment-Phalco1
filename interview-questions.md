@@ -62,10 +62,28 @@ Research and define the following terms to the best of your ability.
 
 1. Higher Order Functions:
 
+    Higher-ordered functions - a built-in method on JavaScript that takes a function as an argument. The high-ordered function has to take at least one argument. there are 3 arguments that the high-ordered function can take. Value, index, and arrays.
+
 2. Jest:
+
+    Jest - A JavaScript testing framework that is made up of a collection of files called dependencies; that contain snippets of code functionality. You form these snippets of code in a framework to give yourself the ability to run tests.
 
 3. Objects:
 
+    Objects - Objects consist of collections of key:value pairs stored in curly braces.
+                                           (symbol)(any data type)
+
 4. Method:
 
+    Method - A function that belongs to an object. A JavaScript keyword that references the object.
+
+
 5. Classes:
+
+    Classes - A type of function that contain data and behavior. They have their own scope.
+
+    JavaScript keywords:
+
+    constuctor
+    this 
+    new
